@@ -11,7 +11,7 @@ The parser architecture is based on an abstraction (`IContentParser`), allowing 
 
 ## Requirements
 
-* .NET 8 SDK or newer
+* .NET 10 SDK
 
 ## Running the application
 
